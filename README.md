@@ -12,7 +12,7 @@ The program can be used for bypassing the [Internet Censorship](https://en.wikip
 
 ### Run 
     $ ./server.out [port]
-One the command is issued, the server starts listening on the specified port. 
+Once the command is issued, the server starts listening on the specified port. 
 
 ## License
     Copyright © 2015-2018 Mohammad Bakhshalipour
